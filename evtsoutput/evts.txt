@@ -1,0 +1,193 @@
+ 中国 近年 来 颁布 实行 了 涉及 经济 、 贸易 、 建设 、 规划 、 科技 、 文教 等 领域 的 七十一 件 法规性 文件
+(IP (NP (NR 中国  )   )  (VP (LCP (NP (NT 近年  )   )  (LC 来  )   )  (VP (VCD (VV 颁布  )  (VV 实行  )   )  (AS 了  )  (NP (CP (IP (VP (VV 涉及  )  (NP (NP (NN 经济  )  (PU 、  )  (NN 贸易  )  (PU 、  )  (NN 建设  )  (PU 、  )  (NN 规划  )  (PU 、  )  (NN 科技  )  (PU 、  )  (NN 文教  )  (ETC 等  )   )  (NP (NN 领域  )   )   )   )   )  (DEG 的  )   )  (QP (CD 七十一  )  (CLP (M 件  )   )   )  (ADJP (JJ 法规性  )   )  (NP (NN 文件  )   )   )   )   )   )  
+([u'CHN'], ([u'~HLH'], u'', u'172'), u'060')
+ 中国 旨在 为 联合国 主导 的 叙利亚 和平 进程 寻求 政治 支持 ， 并 为 缓解 叙利亚 人道 主义 灾难 募集 善款
+(IP (NP (NR 中国  )   )  (VP (VP (VV 旨在  )  (NP (CP (IP (VP (PP (P 为  )  (NP (NR 联合国  )   )   )  (VP (VV 主导  )   )   )   )  (DEC 的  )   )  (NP (NR 叙利亚  )   )  (NP (NN 和平  )  (NN 进程  )   )   )   )  (VP (VV 寻求  )  (NP (NN 政治  )  (NN 支持  )   )   )  (PU ，  )  (CC 并  )  (VP (PP (P 为  )  (IP (VP (VV 缓解  )  (NP (NP (NR 叙利亚  )   )  (NP (NN 人道  )  (NN 主义  )  (NN 灾难  )   )   )   )   )   )  (VP (VV 募集  )  (NP (NN 善款  )   )   )   )   )   )  
+([u'SYR'], u'CHN', u'160')
+([u'CHN'], u'SYR', u'160')
+([u'CHN'], u'', u'162')
+([u'CHN'], u'', u'161')
+ 穆斯林 正 遭 政府 加强 镇压
+(IP (NP (NR 穆斯林  )   )  (VP (ADVP (AD 正  )   )  (VP (VV 遭  )  (IP (NP (NN 政府  )   )  (VP (VV 加强  )  (NP (NN 镇压  )   )   )   )   )   )   )  
+([u'MUS'], ([u'~GOV'], u'', u'136'), u'190')
+ 白宫 于 周二 表示 ， 美国 总统 已 对 塔利班 宗教 派别 实施 制裁
+(IP (NP (NR 白宫  )   )  (VP (PP (P 于  )  (NP (NT 周二  )   )   )  (VP (VV 表示  )  (PU ，  )  (IP (NP (NP (NR 美国  )   )  (NP (NN 总统  )   )   )  (VP (ADVP (AD 已  )   )  (PP (P 对  )  (NP (NP (NR 塔利班  )   )  (NP (NN 宗教  )  (NN 派别  )   )   )   )  (VP (VV 实施  )  (NP (NN 制裁  )   )   )   )   )   )   )   )  
+([u'USAGOV'], ([u'USAGOV'], u'', u'061'), u'040')
+ 贝尔格莱德 电台 报道 ， 多达 100 名 阿尔巴尼亚 族人 在 科索沃 举行 示威
+(IP (NP (NP (NR 贝尔格莱德  )   )  (NP (NN 电台  )   )   )  (VP (VV 报道  )  (PU ，  )  (IP (NP (QP (ADVP (AD 多达  )   )  (QP (CD 100  )  (CLP (M 名  )   )   )   )  (NP (NR 阿尔巴尼亚  )   )  (NP (NN 族人  )   )   )  (VP (PP (P 在  )  (NP (NR 科索沃  )   )   )  (VP (VV 举行  )  (NP (NN 示威  )   )   )   )   )   )   )  
+["科索沃"]
+([u'ALB'], u'', u'114')
+ 中国 警告 美国 必须 深刻 思考 对 华 加征 关税 的 后果
+(IP (NP (NR 中国  )   )  (VP (VV 警告  )  (NP (NR 美国  )   )  (IP (VP (VV 必须  )  (VP (ADVP (AD 深刻  )   )  (VP (VV 思考  )  (NP (CP (IP (VP (PP (P 对  )  (NP (NR 华  )   )   )  (VP (VV 加征  )  (NP (NN 关税  )   )   )   )   )  (DEC 的  )   )  (NP (NN 后果  )   )   )   )   )   )   )   )   )  
+([u'USA'], u'CHN', u'025')
+([u'CHN'], u'USA', u'025')
+ 布什 政府 要求 中国 取消 对 美国 出口 的 壁垒
+(IP (NP (NP (NR 布什  )   )  (NP (NN 政府  )   )   )  (VP (VV 要求  )  (NP (NR 中国  )   )  (IP (VP (VV 取消  )  (NP (DNP (NP (PP (P 对  )  (NP (NR 美国  )   )   )  (NP (NN 出口  )   )   )  (DEG 的  )   )  (NP (NN 壁垒  )   )   )   )   )   )   )  
+ 津巴布韦 总理 穆加贝 指责 美国 敲诈勒索
+(IP (NP (NP (NP (NR 津巴布韦  )   )  (NP (NN 总理  )   )   )  (NP (NR 穆加贝  )   )   )  (VP (VV 指责  )  (NP (NR 美国  )   )  (IP (VP (VV 敲诈勒索  )   )   )   )   )  
+([u'USA'], u'ZWEGOV', u'025')
+([u'ZWEGOV'], u'USA', u'025')
+ 波兰 议会 要求 莫斯科 承认 苏联 在 二战 期间 杀害 了 1.5万 多 名 波兰 军官
+(IP (NP (NP (NR 波兰  )   )  (NP (NN 议会  )   )   )  (VP (VV 要求  )  (NP (NR 莫斯科  )   )  (IP (VP (VV 承认  )  (IP (NP (NR 苏联  )   )  (VP (PP (P 在  )  (NP (NP (NR 二战  )   )  (NP (NN 期间  )   )   )   )  (VP (VV 杀害  )  (AS 了  )  (NP (CD 1.5万  )  (QP (CD 多  )  (CLP (M 名  )   )   )  (NP (NR 波兰  )   )  (NP (NN 军官  )   )   )   )   )   )   )   )   )   )  
+["二战"]
+([u'RUSGOV'], u'POMLEG', u'070')
+([u'POMLEG'], u'RUSGOV', u'070')
+ 中方 表示 ， 欢迎 卢森堡 加入 亚洲 基础 设施 投资 银行
+(IP (NP (NN 中方  )   )  (VP (VV 表示  )  (PU ，  )  (IP (VP (VV 欢迎  )  (NP (NR 卢森堡  )   )  (IP (VP (VV 加入  )  (NP (NP (NR 亚洲  )   )  (NP (NN 基础  )  (NN 设施  )  (NN 投资  )  (NN 银行  )   )   )   )   )   )   )   )   )  
+([u'CHN'], u'LUX', u'080')
+ 侯赛因 · 萨拉米 反对 与 美国 展开 谈判
+(IP (NP (NR 侯赛因  )  (PU ·  )  (NR 萨拉米  )   )  (VP (VV 反对  )  (IP (VP (PP (P 与  )  (NP (NR 美国  )   )   )  (VP (VV 展开  )  (NP (NN 谈判  )   )   )   )   )   )   )  
+(u'', u'', u'113')
+ 中国 近年 来 颁布 实行 了 涉及 经济 、 贸易 、 建设 、 规划 、 科技 、 文教 等 领域 的 七十一 件 法规性 文件
+(IP (NP (NR 中国  )   )  (VP (LCP (NP (NT 近年  )   )  (LC 来  )   )  (VP (VCD (VV 颁布  )  (VV 实行  )   )  (AS 了  )  (NP (CP (IP (VP (VV 涉及  )  (NP (NP (NN 经济  )  (PU 、  )  (NN 贸易  )  (PU 、  )  (NN 建设  )  (PU 、  )  (NN 规划  )  (PU 、  )  (NN 科技  )  (PU 、  )  (NN 文教  )  (ETC 等  )   )  (NP (NN 领域  )   )   )   )   )  (DEG 的  )   )  (QP (CD 七十一  )  (CLP (M 件  )   )   )  (ADJP (JJ 法规性  )   )  (NP (NN 文件  )   )   )   )   )   )  
+([u'CHN'], ([u'~HLH'], u'', u'172'), u'060')
+ 中国 旨在 为 联合国 主导 的 叙利亚 和平 进程 寻求 政治 支持 ， 并 为 缓解 叙利亚 人道 主义 灾难 募集 善款
+(IP (NP (NR 中国  )   )  (VP (VP (VV 旨在  )  (NP (CP (IP (VP (PP (P 为  )  (NP (NR 联合国  )   )   )  (VP (VV 主导  )   )   )   )  (DEC 的  )   )  (NP (NR 叙利亚  )   )  (NP (NN 和平  )  (NN 进程  )   )   )   )  (VP (VV 寻求  )  (NP (NN 政治  )  (NN 支持  )   )   )  (PU ，  )  (CC 并  )  (VP (PP (P 为  )  (IP (VP (VV 缓解  )  (NP (NP (NR 叙利亚  )   )  (NP (NN 人道  )  (NN 主义  )  (NN 灾难  )   )   )   )   )   )  (VP (VV 募集  )  (NP (NN 善款  )   )   )   )   )   )  
+([u'SYR'], u'CHN', u'160')
+([u'CHN'], u'SYR', u'160')
+([u'CHN'], u'', u'162')
+([u'CHN'], u'', u'161')
+ 穆斯林 正 遭 政府 加强 镇压
+(IP (NP (NR 穆斯林  )   )  (VP (ADVP (AD 正  )   )  (VP (VV 遭  )  (IP (NP (NN 政府  )   )  (VP (VV 加强  )  (NP (NN 镇压  )   )   )   )   )   )   )  
+([u'MUS'], ([u'~GOV'], u'', u'136'), u'190')
+ 白宫 于 周二 表示 ， 美国 总统 已 对 塔利班 宗教 派别 实施 制裁
+(IP (NP (NR 白宫  )   )  (VP (PP (P 于  )  (NP (NT 周二  )   )   )  (VP (VV 表示  )  (PU ，  )  (IP (NP (NP (NR 美国  )   )  (NP (NN 总统  )   )   )  (VP (ADVP (AD 已  )   )  (PP (P 对  )  (NP (NP (NR 塔利班  )   )  (NP (NN 宗教  )  (NN 派别  )   )   )   )  (VP (VV 实施  )  (NP (NN 制裁  )   )   )   )   )   )   )   )  
+([u'USAGOV'], ([u'USAGOV'], u'', u'061'), u'040')
+ 贝尔格莱德 电台 报道 ， 多达 100 名 阿尔巴尼亚 族人 在 科索沃 举行 示威
+(IP (NP (NP (NR 贝尔格莱德  )   )  (NP (NN 电台  )   )   )  (VP (VV 报道  )  (PU ，  )  (IP (NP (QP (ADVP (AD 多达  )   )  (QP (CD 100  )  (CLP (M 名  )   )   )   )  (NP (NR 阿尔巴尼亚  )   )  (NP (NN 族人  )   )   )  (VP (PP (P 在  )  (NP (NR 科索沃  )   )   )  (VP (VV 举行  )  (NP (NN 示威  )   )   )   )   )   )   )  
+["科索沃"]
+([u'ALB'], u'', u'114')
+ 中国 警告 美国 必须 深刻 思考 对 华 加征 关税 的 后果
+(IP (NP (NR 中国  )   )  (VP (VV 警告  )  (NP (NR 美国  )   )  (IP (VP (VV 必须  )  (VP (ADVP (AD 深刻  )   )  (VP (VV 思考  )  (NP (CP (IP (VP (PP (P 对  )  (NP (NR 华  )   )   )  (VP (VV 加征  )  (NP (NN 关税  )   )   )   )   )  (DEC 的  )   )  (NP (NN 后果  )   )   )   )   )   )   )   )   )  
+([u'USA'], u'CHN', u'025')
+([u'CHN'], u'USA', u'025')
+ 布什 政府 要求 中国 取消 对 美国 出口 的 壁垒
+(IP (NP (NP (NR 布什  )   )  (NP (NN 政府  )   )   )  (VP (VV 要求  )  (NP (NR 中国  )   )  (IP (VP (VV 取消  )  (NP (DNP (NP (PP (P 对  )  (NP (NR 美国  )   )   )  (NP (NN 出口  )   )   )  (DEG 的  )   )  (NP (NN 壁垒  )   )   )   )   )   )   )  
+ 津巴布韦 总理 穆加贝 指责 美国 敲诈勒索
+(IP (NP (NP (NP (NR 津巴布韦  )   )  (NP (NN 总理  )   )   )  (NP (NR 穆加贝  )   )   )  (VP (VV 指责  )  (NP (NR 美国  )   )  (IP (VP (VV 敲诈勒索  )   )   )   )   )  
+([u'USA'], u'ZWEGOV', u'025')
+([u'ZWEGOV'], u'USA', u'025')
+ 波兰 议会 要求 莫斯科 承认 苏联 在 二战 期间 杀害 了 1.5万 多 名 波兰 军官
+(IP (NP (NP (NR 波兰  )   )  (NP (NN 议会  )   )   )  (VP (VV 要求  )  (NP (NR 莫斯科  )   )  (IP (VP (VV 承认  )  (IP (NP (NR 苏联  )   )  (VP (PP (P 在  )  (NP (NP (NR 二战  )   )  (NP (NN 期间  )   )   )   )  (VP (VV 杀害  )  (AS 了  )  (NP (CD 1.5万  )  (QP (CD 多  )  (CLP (M 名  )   )   )  (NP (NR 波兰  )   )  (NP (NN 军官  )   )   )   )   )   )   )   )   )   )  
+["二战"]
+([u'RUSGOV'], u'POMLEG', u'070')
+([u'POMLEG'], u'RUSGOV', u'070')
+ 中方 表示 ， 欢迎 卢森堡 加入 亚洲 基础 设施 投资 银行
+(IP (NP (NN 中方  )   )  (VP (VV 表示  )  (PU ，  )  (IP (VP (VV 欢迎  )  (NP (NR 卢森堡  )   )  (IP (VP (VV 加入  )  (NP (NP (NR 亚洲  )   )  (NP (NN 基础  )  (NN 设施  )  (NN 投资  )  (NN 银行  )   )   )   )   )   )   )   )   )  
+([u'CHN'], u'LUX', u'080')
+ 侯赛因 · 萨拉米 反对 与 美国 展开 谈判
+(IP (NP (NR 侯赛因  )  (PU ·  )  (NR 萨拉米  )   )  (VP (VV 反对  )  (IP (VP (PP (P 与  )  (NP (NR 美国  )   )   )  (VP (VV 展开  )  (NP (NN 谈判  )   )   )   )   )   )   )  
+(u'', u'', u'113')
+ 中国 近年 来 颁布 实行 了 涉及 经济 、 贸易 、 建设 、 规划 、 科技 、 文教 等 领域 的 七十一 件 法规性 文件
+(IP (NP (NR 中国  )   )  (VP (LCP (NP (NT 近年  )   )  (LC 来  )   )  (VP (VCD (VV 颁布  )  (VV 实行  )   )  (AS 了  )  (NP (CP (IP (VP (VV 涉及  )  (NP (NP (NN 经济  )  (PU 、  )  (NN 贸易  )  (PU 、  )  (NN 建设  )  (PU 、  )  (NN 规划  )  (PU 、  )  (NN 科技  )  (PU 、  )  (NN 文教  )  (ETC 等  )   )  (NP (NN 领域  )   )   )   )   )  (DEG 的  )   )  (QP (CD 七十一  )  (CLP (M 件  )   )   )  (ADJP (JJ 法规性  )   )  (NP (NN 文件  )   )   )   )   )   )  
+([u'CHN'], ([u'~HLH'], u'', u'172'), u'060')
+ 中国 旨在 为 联合国 主导 的 叙利亚 和平 进程 寻求 政治 支持 ， 并 为 缓解 叙利亚 人道 主义 灾难 募集 善款
+(IP (NP (NR 中国  )   )  (VP (VP (VV 旨在  )  (NP (CP (IP (VP (PP (P 为  )  (NP (NR 联合国  )   )   )  (VP (VV 主导  )   )   )   )  (DEC 的  )   )  (NP (NR 叙利亚  )   )  (NP (NN 和平  )  (NN 进程  )   )   )   )  (VP (VV 寻求  )  (NP (NN 政治  )  (NN 支持  )   )   )  (PU ，  )  (CC 并  )  (VP (PP (P 为  )  (IP (VP (VV 缓解  )  (NP (NP (NR 叙利亚  )   )  (NP (NN 人道  )  (NN 主义  )  (NN 灾难  )   )   )   )   )   )  (VP (VV 募集  )  (NP (NN 善款  )   )   )   )   )   )  
+([u'SYR'], u'CHN', u'160')
+([u'CHN'], u'SYR', u'160')
+([u'CHN'], u'', u'162')
+([u'CHN'], u'', u'161')
+ 穆斯林 正 遭 政府 加强 镇压
+(IP (NP (NR 穆斯林  )   )  (VP (ADVP (AD 正  )   )  (VP (VV 遭  )  (IP (NP (NN 政府  )   )  (VP (VV 加强  )  (NP (NN 镇压  )   )   )   )   )   )   )  
+([u'MUS'], ([u'~GOV'], u'', u'136'), u'190')
+ 白宫 于 周二 表示 ， 美国 总统 已 对 塔利班 宗教 派别 实施 制裁
+(IP (NP (NR 白宫  )   )  (VP (PP (P 于  )  (NP (NT 周二  )   )   )  (VP (VV 表示  )  (PU ，  )  (IP (NP (NP (NR 美国  )   )  (NP (NN 总统  )   )   )  (VP (ADVP (AD 已  )   )  (PP (P 对  )  (NP (NP (NR 塔利班  )   )  (NP (NN 宗教  )  (NN 派别  )   )   )   )  (VP (VV 实施  )  (NP (NN 制裁  )   )   )   )   )   )   )   )  
+([u'USAGOV'], ([u'USAGOV'], u'', u'061'), u'040')
+ 贝尔格莱德 电台 报道 ， 多达 100 名 阿尔巴尼亚 族人 在 科索沃 举行 示威
+(IP (NP (NP (NR 贝尔格莱德  )   )  (NP (NN 电台  )   )   )  (VP (VV 报道  )  (PU ，  )  (IP (NP (QP (ADVP (AD 多达  )   )  (QP (CD 100  )  (CLP (M 名  )   )   )   )  (NP (NR 阿尔巴尼亚  )   )  (NP (NN 族人  )   )   )  (VP (PP (P 在  )  (NP (NR 科索沃  )   )   )  (VP (VV 举行  )  (NP (NN 示威  )   )   )   )   )   )   )  
+["科索沃"]
+([u'ALB'], u'', u'114')
+ 中国 警告 美国 必须 深刻 思考 对 华 加征 关税 的 后果
+(IP (NP (NR 中国  )   )  (VP (VV 警告  )  (NP (NR 美国  )   )  (IP (VP (VV 必须  )  (VP (ADVP (AD 深刻  )   )  (VP (VV 思考  )  (NP (CP (IP (VP (PP (P 对  )  (NP (NR 华  )   )   )  (VP (VV 加征  )  (NP (NN 关税  )   )   )   )   )  (DEC 的  )   )  (NP (NN 后果  )   )   )   )   )   )   )   )   )  
+([u'USA'], u'CHN', u'025')
+([u'CHN'], u'USA', u'025')
+ 布什 政府 要求 中国 取消 对 美国 出口 的 壁垒
+(IP (NP (NP (NR 布什  )   )  (NP (NN 政府  )   )   )  (VP (VV 要求  )  (NP (NR 中国  )   )  (IP (VP (VV 取消  )  (NP (DNP (NP (PP (P 对  )  (NP (NR 美国  )   )   )  (NP (NN 出口  )   )   )  (DEG 的  )   )  (NP (NN 壁垒  )   )   )   )   )   )   )  
+([u'CHN'], u'USAGOV', u'070')
+([u'USAGOV'], u'CHN', u'070')
+ 津巴布韦 总理 穆加贝 指责 美国 敲诈勒索
+(IP (NP (NP (NP (NR 津巴布韦  )   )  (NP (NN 总理  )   )   )  (NP (NR 穆加贝  )   )   )  (VP (VV 指责  )  (NP (NR 美国  )   )  (IP (VP (VV 敲诈勒索  )   )   )   )   )  
+([u'USA'], u'ZWEGOV', u'025')
+([u'ZWEGOV'], u'USA', u'025')
+ 波兰 议会 要求 莫斯科 承认 苏联 在 二战 期间 杀害 了 1.5万 多 名 波兰 军官
+(IP (NP (NP (NR 波兰  )   )  (NP (NN 议会  )   )   )  (VP (VV 要求  )  (NP (NR 莫斯科  )   )  (IP (VP (VV 承认  )  (IP (NP (NR 苏联  )   )  (VP (PP (P 在  )  (NP (NP (NR 二战  )   )  (NP (NN 期间  )   )   )   )  (VP (VV 杀害  )  (AS 了  )  (NP (CD 1.5万  )  (QP (CD 多  )  (CLP (M 名  )   )   )  (NP (NR 波兰  )   )  (NP (NN 军官  )   )   )   )   )   )   )   )   )   )  
+["二战"]
+([u'RUSGOV'], u'POMLEG', u'070')
+([u'POMLEG'], u'RUSGOV', u'070')
+ 中方 表示 ， 欢迎 卢森堡 加入 亚洲 基础 设施 投资 银行
+(IP (NP (NN 中方  )   )  (VP (VV 表示  )  (PU ，  )  (IP (VP (VV 欢迎  )  (NP (NR 卢森堡  )   )  (IP (VP (VV 加入  )  (NP (NP (NR 亚洲  )   )  (NP (NN 基础  )  (NN 设施  )  (NN 投资  )  (NN 银行  )   )   )   )   )   )   )   )   )  
+([u'CHN'], u'LUX', u'080')
+ 侯赛因 · 萨拉米 反对 与 美国 展开 谈判
+(IP (NP (NR 侯赛因  )  (PU ·  )  (NR 萨拉米  )   )  (VP (VV 反对  )  (IP (VP (PP (P 与  )  (NP (NR 美国  )   )   )  (VP (VV 展开  )  (NP (NN 谈判  )   )   )   )   )   )   )  
+(u'', u'', u'113')
+ 罗德里格斯 宣布 暂时 关闭 与 哥伦比亚 的 边界
+(IP (NP (NR 罗德里格斯  )   )  (VP (VV 宣布  )  (IP (VP (ADVP (AD 暂时  )   )  (VP (VV 关闭  )  (NP (DNP (PP (P 与  )  (NP (NR 哥伦比亚  )   )   )  (DEG 的  )   )  (NP (NN 边界  )   )   )   )   )   )   )   )  
+([u'VENGOV'], u'', u'101')
+ 中国 抵达 苏瓦港 ， 对 斐济 进行 为期 8 天 的 友好 访问 并 提供 人道 主义 医疗 服务
+(IP (NP (NR 中国  )   )  (VP (VP (VV 抵达  )  (NP (NR 苏瓦港  )   )   )  (PU ，  )  (VP (PP (P 对  )  (NP (NR 斐济  )   )   )  (VP (VP (VV 进行  )  (NP (CP (IP (VP (VV 为期  )  (QP (CD 8  )  (CLP (M 天  )   )   )   )   )  (DEC 的  )   )  (ADJP (JJ 友好  )   )  (NP (NN 访问  )   )   )   )  (AD 并  )  (VP (VV 提供  )  (NP (NN 人道  )  (NN 主义  )  (NN 医疗  )  (NN 服务  )   )   )   )   )   )   )  
+([u'CHN'], u'', u'180')
+([u'CHN'], u'', u'116')
+([u'CHN'], u'', u'151')
+ 美国 总统 一再 试图 挤压 独立 媒体 的 空间
+(IP (NP (NP (NR 美国  )   )  (NP (NN 总统  )   )   )  (VP (ADVP (AD 一再  )   )  (VP (VV 试图  )  (IP (VP (VV 挤压  )  (NP (CP (IP (VP (AD 独立  )  (NP (NN 媒体  )   )   )   )  (DEG 的  )   )  (NP (NN 空间  )   )   )   )   )   )   )   )  
+([u'USAGOV'], u'', u'083')
+ 叙利亚 军方 表示 不 会 使用 化学 武器
+(IP (NP (NP (NR 叙利亚  )   )  (NP (NN 军方  )   )   )  (VP (VV 表示  )  (IP (VP (ADVP (AD 不  )   )  (VP (VV 会  )  (VP (VV 使用  )  (NP (NN 化学  )  (NN 武器  )   )   )   )   )   )   )   )  
+([u'SYRMIL'], u'', u'-092')
+ 马其顿 军队 准备 继续 炮轰 阿尔巴尼亚 叛军 控制 的 领土
+(IP (NP (NP (NR 马其顿  )   )  (NP (NN 军队  )   )   )  (VP (VV 准备  )  (IP (VP (VV 继续  )  (VP (VV 炮轰  )  (NP (CP (IP (NP (NP (NR 阿尔巴尼亚  )   )  (NP (NN 叛军  )   )   )  (VP (VV 控制  )   )   )  (DEC 的  )   )  (NP (NN 领土  )   )   )   )   )   )   )   )  
+([u'MKDMIL'], u'', u'031')
+ 阿斯瓦德 周日 将 被 赞比亚 引渡 至 英国
+(IP (NP (NR 阿斯瓦德  )   )  (VP (NP (NT 周日  )   )  (ADVP (AD 将  )   )  (VP (SB 被  )  (IP (NP (NR 赞比亚  )   )  (VP (VRD (VV 引渡  )  (VV 至  )   )  (NP (NR 英国  )   )   )   )   )   )   )  
+([u'ZMB'], u'ENGTER', u'050')
+ 斯里兰卡 境内 有 可能 会 发生 更 多 的 袭击 案件 ， 因为 发动 袭击 的 极端 组织 仍 有 成员 未 被 逮捕
+(IP (NP (NP (NR 斯里兰卡  )   )  (NP (NN 境内  )   )   )  (VP (VP (VE 有  )  (NP (NN 可能  )   )   )  (VP (VV 会  )  (VP (VV 发生  )  (NP (DNP (QP (ADVP (AD 更  )   )  (QP (CD 多  )   )   )  (DEG 的  )   )  (NP (NN 袭击  )  (NN 案件  )   )   )   )   )   )  (PU ，  )  (PP (P 因为  )  (IP (NP (CP (IP (VP (VV 发动  )  (NP (NN 袭击  )   )   )   )  (DEC 的  )   )  (ADJP (JJ 极端  )   )  (NP (NN 组织  )   )   )  (VP (ADVP (AD 仍  )   )  (VP (VE 有  )  (IP (NP (NN 成员  )   )  (VP (ADVP (AD 未  )   )  (VP (SB 被  )  (VP (VV 逮捕  )   )   )   )   )   )   )   )   )   )  
+([u'LKA'], u'', u'1951')
+ 一 名 美国 公民 因 涉嫌 参与 上 月 在 热那亚 举行 的 八国 集团 峰会 期间 的 骚乱 ， 已 在 意大利 接受 调查
+(IP (NP (QP (CD 一  )  (CLP (M 名  )   )   )  (NP (NR 美国  )   )  (NP (NN 公民  )   )   )  (VP (PP (P 因  )  (IP (VP (VV 涉嫌  )  (NP (DNP (NP (CP (IP (VP (VV 参与  )  (NP (CP (IP (VP (NP (DP (DT 上  )   )  (NP (NN 月  )   )   )  (PP (P 在  )  (NP (NR 热那亚  )   )   )  (VP (VV 举行  )   )   )   )  (DEC 的  )   )  (NP (NR 八国  )  (NN 集团  )   )  (NP (NN 峰会  )   )   )   )   )   )  (NP (NN 期间  )   )   )  (DEG 的  )   )  (NP (NN 骚乱  )   )   )   )   )   )  (PU ，  )  (VP (ADVP (AD 已  )   )  (PP (P 在  )  (NP (NR 意大利  )   )   )  (VP (VV 接受  )  (NP (NN 调查  )   )   )   )   )   )  
+["热那亚", "意大利"]
+([u'USACVL'], u'', u'1901')
+ 在 埃塞俄比亚 ， 政治犯 遭受 酷刑 折磨
+(IP (PP (P 在  )  (NP (NR 埃塞俄比亚  )   )   )  (PU ，  )  (NP (NN 政治犯  )   )  (VP (VV 遭受  )  (NP (NN 酷刑  )  (NN 折磨  )   )   )   )  
+["埃塞俄比亚"]
+([u'STP'], u'', u'190')
+ 伊朗 情报 机构 遭 欧盟 制裁 ， 被 控 涉嫌 “ 政治 暗杀 ”
+(IP (NP (NP (NR 伊朗  )   )  (NP (NN 情报  )  (NN 机构  )   )   )  (VP (VP (VV 遭  )  (NP (NP (NR 欧盟  )   )  (NP (NN 制裁  )   )   )   )  (PU ，  )  (VP (SB 被  )  (VP (VV 控  )  (IP (VP (VV 涉嫌  )  (NP (PU “  )  (NP (NN 政治  )  (NN 暗杀  )   )  (PU ”  )   )   )   )   )   )   )   )  
+([u'IRN'], u'EU', u'1902')
+([u'passive'], u'IRN', u'025')
+ 中国 驻 南斯拉夫 大使馆 被 北约 袭击
+(NP (NP (NP (NR 中国  )   )  (CP (IP (VP (VV 驻  )  (NP (NR 南斯拉夫  )   )   )   )   )  (NP (NN 大使馆  )   )   )  (VP (SB 被  )  (NP (NP (NR 北约  )   )  (NP (NN 袭击  )   )   )   )   )  
+([u'NATO'], u'CHNGOV', 0)
+ 过去 一 年 来 ， 美国 政府 不断 放出 各 种 受害者 论调 ， 将 自己 打造 成 一 位 冤屈 满腹 、 怒气冲冲 的 受害者
+(IP (LCP (QP (NP (NT 过去  )   )  (QP (CD 一  )  (CLP (M 年  )   )   )   )  (LC 来  )   )  (PU ，  )  (NP (NP (NR 美国  )   )  (NP (NN 政府  )   )   )  (VP (VP (ADVP (AD 不断  )   )  (VP (VV 放出  )  (NP (DP (DT 各  )  (CLP (M 种  )   )   )  (NP (NN 受害者  )  (NN 论调  )   )   )   )   )  (PU ，  )  (VP (BA 将  )  (IP (NP (PN 自己  )   )  (VP (VRD (VV 打造  )  (VV 成  )   )  (NP (QP (CD 一  )  (CLP (M 位  )   )   )  (NP (NN 冤屈  )   )  (ADJP (JJ 满腹  )   )  (PU 、  )  (DNP (ADJP (JJ 怒气冲冲  )   )  (DEG 的  )   )  (NP (NN 受害者  )   )   )   )   )   )   )   )  
+([u'USAGOV'], u'~CVL', u'-044')
+([u'USAGOV'], ([u'USAGOV'], ([u'~CVL'], u'', u'171'), 0), 0)
+ 瑞士 于 今日 表示 ， 驻 日内瓦 的 两 名 苏联 外交官 已经 被 驱逐 了
+(IP (NP (NR 瑞士  )   )  (PP (P 于  )  (NP (NT 今日  )   )   )  (VV 表示  )  (PU ，  )  (NP (CP (IP (VP (VV 驻  )  (NP (NR 日内瓦  )   )   )   )  (DEC 的  )   )  (QP (CD 两  )  (CLP (M 名  )   )   )  (NP (NR 苏联  )   )  (NP (NN 外交官  )   )   )  (VP (ADVP (AD 已经  )   )  (VP (SB 被  )  (VP (VV 驱逐  )  (AS 了  )   )   )   )   )  
+([u'passive'], u'CHE', u'052')
+ 中国 驻 南斯拉夫 大使馆 被 袭击
+(IP (NP (NP (NR 中国  )   )  (CP (IP (VP (VV 驻  )  (NP (NR 南斯拉夫  )   )   )   )   )  (NP (NN 大使馆  )   )   )  (VP (SB 被  )  (VP (VV 袭击  )   )   )   )  
+([u'passive'], u'CHNGOV', u'031')
+ 印度 被 英国 所 统治
+(IP (NP (NR 印度  )   )  (VP (LB 被  )  (IP (NP (NR 英国  )   )  (VP (MSP 所  )  (VP (VV 统治  )   )   )   )   )   )  
+([u'ENG'], u'IND', u'032')
+ 朝鲜 战争 由 美国 所 发起
+(IP (NP (NP (NR 朝鲜  )   )  (NP (NN 战争  )   )   )  (VP (PP (P 由  )  (NP (NR 美国  )   )   )  (VP (MSP 所  )  (VP (VV 发起  )   )   )   )   )  
+([u'USA'], u'PRKWAR', u'025')
+ 过去 一 年 里 ， 在 伊拉克 的 美国 驻军 增加 到 了 4万 人
+(IP (NP (LCP (QP (NP (NT 过去  )   )  (QP (CD 一  )  (CLP (M 年  )   )   )   )  (LC 里  )   )  (PU ，  )  (DNP (PP (P 在  )  (NP (NR 伊拉克  )   )   )  (DEG 的  )   )  (NP (NR 美国  )   )  (NP (NN 驻军  )   )   )  (VP (VRD (VV 增加  )  (VV 到  )   )  (AS 了  )  (NP (QP (CD 4万  )   )  (NP (NN 人  )   )   )   )   )  
+["伊拉克"]
+([u'USAMIL'], ([u'~PPL'], u'', u'130'), 0)
+ 英国 坚信 自己 应该 留在 欧盟
+(IP (NP (NR 英国  )   )  (VP (VV 坚信  )  (IP (NP (PN 自己  )   )  (VP (VV 应该  )  (VP (VV 留在  )  (NP (NR 欧盟  )   )   )   )   )   )   )  
+([u'ENG'], ([u'ENG'], u'EU', u'181'), u'040')
+ 中方 不 承认 菲 南海 仲裁案 裁决
+(IP (NP (NN 中方  )   )  (VP (ADVP (AD 不  )   )  (VP (VV 承认  )  (IP (NP (NP (NR 菲  )  (NR 南海  )   )  (NP (NN 仲裁案  )   )   )  (VP (VV 裁决  )   )   )   )   )   )  
+([u'CHN'], u'', u'')
+ 德国 总理 默克尔 16日 说 ， 她 在 2021年 总理 任期 结束 后 不 会 在 欧盟 任职
+(IP (NP (NP (NP (NR 德国  )   )  (NP (NN 总理  )   )   )  (NP (NR 默克尔  )   )   )  (VP (NP (NT 16日  )   )  (VP (VV 说  )  (PU ，  )  (IP (NP (PN 她  )   )  (VP (PP (P 在  )  (LCP (IP (NP (NP (NP (NT 2021年  )   )  (NP (NN 总理  )   )   )  (NP (NN 任期  )   )   )  (VP (VV 结束  )   )   )  (LC 后  )   )   )  (ADVP (AD 不  )   )  (VP (VV 会  )  (VP (PP (P 在  )  (NP (NR 欧盟  )   )   )  (VP (VV 任职  )   )   )   )   )   )   )   )   )  
+["欧盟"]
+([u'DEUGOV', u'DEUGOV'], u'', u'-051')
+ 俄 总统 普京 认为 美国 对 伊朗 的 施压 政策 不 会 取得 结果
+(IP (NP (NP (NP (NR 俄  )   )  (NP (NN 总统  )   )   )  (NP (NR 普京  )   )   )  (VP (VV 认为  )  (IP (NP (NP (NR 美国  )   )  (DNP (PP (P 对  )  (NP (NR 伊朗  )   )   )  (DEG 的  )   )  (NP (NN 施压  )  (NN 政策  )   )   )  (VP (ADVP (AD 不  )   )  (VP (VV 会  )  (VP (VV 取得  )  (NP (NN 结果  )   )   )   )   )   )   )   )  
+([u'RUSGOV'], ([u'USA'], u'', u'-014'), u'040')

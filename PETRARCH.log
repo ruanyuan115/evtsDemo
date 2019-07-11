@@ -1,0 +1,10 @@
+INFO 2019-07-11 20:07:18,618: Running
+INFO 2019-07-11 20:07:18,619: Using default config file.
+INFO 2019-07-11 20:07:18,621: Reading MyVerbDic.txt
+INFO 2019-07-11 20:07:18,625: Reading MyAgentDic.txt
+
+WARNING 2019-07-11 20:07:18,625: Codes are required for agents in .agents file ; line skipped
+WARNING 2019-07-11 20:07:18,626: Codes are required for agents in .agents file ; line skipped
+WARNING 2019-07-11 20:07:18,640: Codes are required for agents in .agents file ; line skipped
+INFO 2019-07-11 20:07:18,644: Reading Phoenix.discards.txt
+INFO 2019-07-11 20:07:18,647: Reading Phoenix.IssueCoding.txt
